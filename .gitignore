@@ -1,0 +1,17 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.eard
+*.iml
+
+/src/main/resources/rebel.xml
+
+/target/
+/.idea/
